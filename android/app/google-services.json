@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360951986785",
+    "project_id": "shotchat-e7371",
+    "storage_bucket": "shotchat-e7371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360951986785:android:0777b7e3b405cb42c8c820",
+        "android_client_info": {
+          "package_name": "com.shotchat.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360951986785-pb8ma5ec50rjhoh9lci5bnrgrcipj5le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shotchat.www",
+            "certificate_hash": "7d9a2bf7e7dc069c46f7210e21b7621508861eb0"
+          }
+        },
+        {
+          "client_id": "360951986785-htiaqblo2j114oveqb3t1ste0k21ib84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLRJNAPVPTGjog4vum-ZcByZe4dHrXrZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360951986785-htiaqblo2j114oveqb3t1ste0k21ib84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
